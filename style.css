@@ -1,0 +1,38 @@
+body {
+margin: 0;
+padding: 0;
+background-color: aqua;
+box-shadow: 2px 2px 2px 1px;
+}
+
+h1 {
+    color: aliceblue;
+    font-size: 30px;
+    font-family: font-family: 'Yantramanav', sans-serif;
+    display: block;
+}
+
+h1.Interfaz {
+    color: red;
+  }
+
+imagen {
+    border-radius: 50%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    
+}
+
+img {
+	width:700px;
+	padding:16px;
+	border-radius:10px;
+	margin:auto;
+	background-color:yellowgreen;
+    margin:auto;
+    display: block;
+    width: 500px;
+    height: 300px;
+    float:right;
+}
